@@ -69,7 +69,7 @@ hr.vertical {
 
 .btn.secondary:hover {
   background: transparent;
-  color: #6935FD;
+  color: red;
   border: 2px solid #6935FD;
 }
 
